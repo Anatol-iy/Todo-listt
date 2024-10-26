@@ -1,5 +1,5 @@
-import { refs } from './consts.js';
-import * as apiService from './api.js';
+import { refs } from './consts';
+import * as apiService from './api';
 import Notiflix from 'notiflix';
 
 function createTaskItem(task) {

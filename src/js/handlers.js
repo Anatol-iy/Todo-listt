@@ -1,6 +1,6 @@
-import { refs } from './consts.js';
-import { createTaskItem } from './taskListTemplate.js';
-import * as apiService from './api.js';
+import { refs } from './consts';
+import { createTaskItem } from './taskListTemplate';
+import * as apiService from './api';
 import Notiflix from 'notiflix';
 
 function handleFormSubmit(event) {

@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/https://github.com/Anatol-iy/Todo-listt.git",
+    "build": "vite build --base=/Todo-listt/",
     "preview": "vite preview"
   },
   "devDependencies": {
